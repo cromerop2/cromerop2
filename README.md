@@ -16,7 +16,3 @@ Estudiante de 5.º semestre de Ingeniería de Sistemas en la Universidad de Cart
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📊 Mis Estadísticas en GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlosaugr&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugr&layout=compact&theme=radical)
