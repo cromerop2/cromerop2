@@ -1,21 +1,22 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Carlos Augusto 👋
 
-Estudiante de Ingeniería de Sistemas / Desarrollador Backend
+Estudiante de 5.º semestre de Ingeniería de Sistemas en la Universidad de Cartagena | Apasionado por el Backend y la Ciencia de Datos
 
-- 🔭 Actualmente estoy trabajando en **[Nombre del proyecto o área]**
-- 🌱 Actualmente aprendiendo **[Estructuras de datos, Python, SQL...]**
-- 👯 Busco colaborar en **[Proyectos Open Source / Proyectos Backend]**
-- 💬 Pregúntame sobre **[Tus fortalezas técnicas]**
-- 📫 Contacto: **[tu_correo@ejemplo.com]** | [LinkedIn](https://linkedin.com/in/tu-perfil)
+- 🔭 Actualmente estoy trabajando en **desarrollo de APIs RESTful y proyectos de análisis de datos**
+- 🌱 Actualmente aprendiendo **FastAPI, PostgreSQL, Pandas, NumPy y optimización de código en Python**
+- 👯 Busco colaborar en **proyectos Backend Open Source y soluciones basadas en datos**
+- 💬 Pregúntame sobre **Python, estructuras de datos, desarrollo backend y bases de datos**
+- 📫 Contacto: **crop470@gmail.com** | [LinkedIn](https://www.linkedin.com/in/carlosaugr)
 
 ## 🛠️ Tecnologías y Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 Mis Estadísticas en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlosaugr&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugr&layout=compact&theme=radical)
