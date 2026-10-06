@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**cromerop2/cromerop2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas / Desarrollador Backend
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en **[Nombre del proyecto o área]**
+- 🌱 Actualmente aprendiendo **[Estructuras de datos, Python, SQL...]**
+- 👯 Busco colaborar en **[Proyectos Open Source / Proyectos Backend]**
+- 💬 Pregúntame sobre **[Tus fortalezas técnicas]**
+- 📫 Contacto: **[tu_correo@ejemplo.com]** | [LinkedIn](https://linkedin.com/in/tu-perfil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 Mis Estadísticas en GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
